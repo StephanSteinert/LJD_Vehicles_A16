@@ -1,0 +1,10 @@
+{
+  "name": "LJD_Vehicles_A16",
+  "version": "0.17.0",
+  "factorio_version": "0.17",
+  "title": "LJD Vehicles",
+  "author": "ACryInShame, YuokiTani, steinio",
+  "homepage": "www.longJourneyDivided.com",
+  "description": "Adds a hauling truck to the game.",
+  "dependencies": ["base"]
+}

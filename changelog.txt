@@ -1,0 +1,37 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 25. 02. 2017
+  Changes:
+    - added in a truck using car code/model
+---------------------------------------------------------------------------------------------------
+Version: 0.1.1
+Date: 29. 10. 2017
+  Changes:
+    - remove gun off truck, extra inventory, slower movement, cost more to fuel
+    - added own graphic given to by YuokiTani
+    - changed size of truck entity to match graphic
+---------------------------------------------------------------------------------------------------
+Version: 0.16.0
+Date: 27. 04. 2018
+  Changes:
+    - updated to 0.16
+---------------------------------------------------------------------------------------------------
+Version: 0.16.1
+Date: 29. 04. 2018
+  Changes:
+    - Adjusted vehicle parameters to be more like a lorry
+---------------------------------------------------------------------------------------------------
+Version: 0.16.2
+Date: 30. 04. 2018
+  Changes:
+    - Adjusted vehicle parameters again.
+  Bugfixes:
+    - Fixed recipe was available from start.
+    - Fixed changelog.
+  Features:
+    - Added a mod setting to reduce trunk size of the car. (Off by default)
+---------------------------------------------------------------------------------------------------
+Version: 0.17.0
+Date: 18. 03. 2019
+  Features:
+    - Update to 0.17
